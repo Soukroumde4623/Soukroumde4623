@@ -1,195 +1,124 @@
 <div align="center">
+  
+# Hey, I'm Marcellin 👋
 
+### Quantitative Finance Engineer
 
-**Quant IT · Portfolio Management · Algorithmic Asset Management**
+**ENSIAS** — Digital Engineering for Finance
 
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-Quantitative_Finance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Portfolio Optimization](https://img.shields.io/badge/Portfolio-Optimization-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Risk Models](https://img.shields.io/badge/Risk-Models-ef4444?style=for-the-badge&logo=scipy&logoColor=white)](#)
-[![Backtesting](https://img.shields.io/badge/Backtesting-Infrastructure-22c55e?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+*Building the systems that turn financial models into production infrastructure.*
+
+<br>
+
+[![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)](https://python.org)
+[![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=cplusplus&logoColor=00599C)](#)
+[![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)](#)
+[![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat&logo=flask)](#)
+[![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)](#)
+[![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)](#)
+[![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=flat&logo=solidity)](#)
+[![scikit-learn](https://img.shields.io/badge/-Sklearn-0D1117?style=flat&logo=scikit-learn)](#)
+[![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)](#)
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)](#)
 
 </div>
 
----
+<br>
 
-## `$ whoami`
+## What I Do
 
-**Marcellin Soukroumde** — Engineering student at **ENSIAS** (Digital Engineering for Finance), building quantitative infrastructure for systematic portfolio management.
-
-I design and implement **end-to-end quantitative pipelines**: from raw market data ingestion to portfolio construction, risk monitoring and automated backtesting — with a focus on **robust, production-grade code** that bridges the gap between research and deployment.
-
-```python
-class QuantProfile:
-    name        = "Marcellin Soukroumde"
-    focus       = ["Quant IT", "Portfolio Management", "Algorithmic Asset Management"]
-    education   = "ENSIAS — Digital Engineering for Finance"
-    stack       = ["Python", "C++", "SQL", "React", "Flask", "Django", "Solidity", "Docker", "Git"]
-    interests   = ["Factor Models", "Portfolio Optimization", "High-Perf Pricing Engines", "NLP in Finance", "Blockchain", "ML in Finance"]
-    status      = "Open to Quant IT / Portfolio Infrastructure roles"
+```
+Portfolio Optimization    ██████████████████████░░░   85%   Markowitz · Black-Litterman · HRP · Risk Parity
+Risk Modelling            ████████████████████░░░░░   80%   VaR/CVaR · Monte Carlo · Credit Risk · GMM
+C++ for Finance           ██████████████████░░░░░░░   72%   QuantLib · Pricing Engines · Low-Latency Systems
+Machine Learning          ████████████████████░░░░░   80%   Classification · NLP · FinBERT · Ensemble Methods
+Full-Stack Development    ██████████████████████░░░   85%   Flask · Django · React · Docker · CI/CD
+Blockchain / DeFi         ███████████████░░░░░░░░░░   60%   Solidity · Smart Contracts · Decentralized Ledgers
 ```
 
----
+<br>
 
-## 🧠 Core Competencies
+## Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Portfolio Construction & Optimization
-- Mean-Variance (Markowitz), Black-Litterman
-- Risk Parity & Hierarchical Risk Parity (HRP)
-- Constrained optimization (sector, turnover, ESG)
-- Factor-based allocation (Fama-French, momentum)
-- **C++ portfolio engines** for low-latency rebalancing
+### 🏦 [Credit-Risk](https://github.com/Soukroumde4623/Credit-Risk)
+**GMM-Based Credit Scoring**
 
-</td>
-<td width="50%">
+Full-stack ML app — Flask API + React UI with Bloomberg-style dark theme. 7 models benchmarked, real-time predictions, Docker-ready.
 
-### Risk Modelling & Analytics
-- VaR / CVaR (parametric, historical, Monte Carlo)
-- Stress testing & scenario analysis
-- Credit risk assessment (PD, LGD, EAD)
-- Gaussian Mixture Models for risk segmentation
-- **C++ pricing libraries** (options, derivatives, yield curves)
+`Python` `React` `Flask` `Docker` `scikit-learn`
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Backtesting Infrastructure
-- Event-driven & vectorized backtesting engines
-- **High-performance C++ backtester** (tick-level, multi-asset)
-- Transaction cost modeling & slippage
-- Walk-forward optimization & cross-validation
-- Performance attribution (Brinson, factor-based)
+### 📰 [NLP-Finance](https://github.com/Soukroumde4623/NLP-Finance)
+**FinBERT Sentiment Analysis**
+
+Real-time financial news sentiment scoring using fine-tuned FinBERT transformer. Django backend with interactive dashboard.
+
+`Python` `Django` `FinBERT` `Hugging Face` `NLP`
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Quant IT & Data Engineering
-- REST API design for model serving (Flask)
-- Interactive dashboards (React, Recharts)
-- Containerized deployments (Docker, CI/CD)
-- Data pipelines (pandas, NumPy, SQL)
+### ⛓️ [blockchain-Finance](https://github.com/Soukroumde4623/blockchain-Finance) ⭐
+**Decentralized Finance Platform**
+
+Tamper-proof financial ledger with Solidity smart contracts. Immutable transaction history, cryptographic audit trail.
+
+`Solidity` `Shell` `Blockchain` `DeFi` `Smart Contracts`
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🔧 Tech Stack
+## Philosophy
 
-```
-LANGUAGES       Python · C++ · SQL · JavaScript · Solidity · Shell
-C++ FINANCE     STL · Eigen · Boost · QuantLib · Monte Carlo engines · Option pricing · Yield curves
-QUANT / ML      scikit-learn · SciPy · NumPy · pandas · statsmodels · Transformers (FinBERT)
-NLP             Hugging Face · FinBERT · Sentiment Analysis · Text Classification
-BLOCKCHAIN      Solidity · Smart Contracts · Decentralized Finance (DeFi)
-VISUALIZATION   Recharts · Matplotlib · Plotly
-WEB / API       Flask · Django · React · Axios · Tailwind CSS
-INFRA           Docker · Docker Compose · Nginx · Git · GitHub Actions
-DATABASES       PostgreSQL · SQLite
-TOOLS           Jupyter · VS Code · LaTeX
-```
+> **Python** for rapid prototyping & ML  ·  **C++** for performance-critical pricing  ·  **Together** for production quant systems.
 
----
-
-## 📌 Featured Projects
-
-### 🏦 [`Credit-Risk`](https://github.com/Soukroumde4623/Credit-Risk) — Credit Risk Assessment with GMM
-> Full-stack ML application for bank loan eligibility prediction using Gaussian Mixture Models
-
-| Component | Stack |
-|-----------|-------|
-| **ML Engine** | Per-class GMM, Logistic Regression, Random Forest, Gradient Boosting, SVM, Naive Bayes, Decision Tree |
-| **Backend** | Flask REST API, scikit-learn, custom SMOTE implementation |
-| **Frontend** | React 18, Tailwind CSS, Recharts — Bloomberg Terminal-inspired dark UI |
-| **DevOps** | Docker multi-stage build, Nginx reverse proxy, docker-compose orchestration |
-
-**Key features:** Real-time credit scoring · 7-model benchmarking · ROC/AUC analysis · Component-level attribution · CSV export
-
----
-
-### 📰 [`NLP-Finance`](https://github.com/Soukroumde4623/NLP-Finance) — Financial Sentiment Analysis with FinBERT
-> Full-stack NLP web application that analyzes financial news sentiment in real time using a fine-tuned FinBERT transformer model
-
-| Component | Stack |
-|-----------|-------|
-| **NLP Model** | FinBERT (Hugging Face Transformers), fine-tuned for financial text |
-| **Backend** | Django, REST API, real-time inference pipeline |
-| **Frontend** | Interactive dashboard for sentiment visualization |
-| **Data** | Financial news corpus, sentiment labeling (positive/negative/neutral) |
-
-**Key features:** Real-time sentiment scoring · FinBERT fine-tuning · Financial news classification · Interactive dashboard
-
----
-
-### ⛓️ [`blockchain-Finance`](https://github.com/Soukroumde4623/blockchain-Finance) — Blockchain-Based Financial Management ⭐
-> Secure financial management platform where every transaction is permanently recorded on a shared, tamper-proof ledger
-
-| Component | Stack |
-|-----------|-------|
-| **Blockchain** | Solidity smart contracts, decentralized ledger |
-| **Security** | Tamper-proof transaction records, cryptographic verification |
-| **Infrastructure** | Shell scripts, automated deployment |
-
-**Key features:** Immutable transaction history · Decentralized architecture · Smart contract automation · Audit trail
-
----
-
-## 📊 What I Bring to a Quant Team
+I don't just build models — I ship them. From research notebook to Dockerized API with monitoring, my focus is on **code that runs in production**, not just in Jupyter.
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   RESEARCH          →    IMPLEMENTATION    →    PRODUCTION               │
-│                                                                          │
-│   Factor models          Python pipelines       Docker/CI-CD            │
-│   Risk analytics         C++ pricing engines    Monitoring               │
-│   Optimization           REST APIs              Low-latency systems      │
-│   Statistical tests      Backtesting            Dashboards               │
-│   Derivatives pricing    Data engineering       Documentation            │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+RESEARCH   ───▶   IMPLEMENTATION   ───▶   PRODUCTION
+                                          
+Models            APIs & Pipelines        Docker / CI-CD
+Analytics         C++ Engines             Monitoring
+Optimization      Backtesting             Dashboards
 ```
 
-I don't just build models — I build the **infrastructure** that makes them reliable, testable and deployable.
+<br>
 
-> 💡 *Python for rapid prototyping & ML · C++ for performance-critical pricing & execution · together for production quant systems.*
-
----
-
-## 📈 GitHub Stats
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soukroumde4623&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e17&title_color=f59e0b&icon_color=22c55e&text_color=94a3b8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soukroumde4623&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e17&title_color=f59e0b&text_color=94a3b8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soukroumde4623&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Soukroumde4623&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" height="160" />
 
 </div>
 
----
+<br>
 
-## 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukroumde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Soukroumde4623-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soukroumde4623)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellin-soukroumde-889134238/)
-
-</div>
+## Let's Connect
 
 <div align="center">
 
----
+I'm looking for opportunities in **Quant IT**, **Portfolio Infrastructure** & **Algorithmic Asset Management**.
 
-*Currently seeking opportunities in **Quant IT**, **Portfolio Infrastructure** and **Algorithmic Asset Management**.*
+If you're building systematic strategies or quant platforms — let's talk.
 
-*Let's build something that compounds.* 📈
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcellin_Soukroumde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellin-soukroumde-889134238/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-soukroumde@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukroumde@gmail.com)
 
 </div>
