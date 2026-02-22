@@ -4,6 +4,7 @@
 **Quant IT · Portfolio Management · Algorithmic Asset Management**
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-Quantitative_Finance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Portfolio Optimization](https://img.shields.io/badge/Portfolio-Optimization-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](#)
 [![Risk Models](https://img.shields.io/badge/Risk-Models-ef4444?style=for-the-badge&logo=scipy&logoColor=white)](#)
 [![Backtesting](https://img.shields.io/badge/Backtesting-Infrastructure-22c55e?style=for-the-badge&logo=apachespark&logoColor=white)](#)
@@ -23,8 +24,8 @@ class QuantProfile:
     name        = "Marcellin Soukroumde"
     focus       = ["Quant IT", "Portfolio Management", "Algorithmic Asset Management"]
     education   = "ENSIAS — Digital Engineering for Finance"
-    stack       = ["Python", "SQL", "React", "Flask", "Django", "Solidity", "Docker", "Git"]
-    interests   = ["Factor Models", "Portfolio Optimization", "NLP in Finance", "Blockchain", "ML in Finance"]
+    stack       = ["Python", "C++", "SQL", "React", "Flask", "Django", "Solidity", "Docker", "Git"]
+    interests   = ["Factor Models", "Portfolio Optimization", "High-Perf Pricing Engines", "NLP in Finance", "Blockchain", "ML in Finance"]
     status      = "Open to Quant IT / Portfolio Infrastructure roles"
 ```
 
@@ -41,6 +42,7 @@ class QuantProfile:
 - Risk Parity & Hierarchical Risk Parity (HRP)
 - Constrained optimization (sector, turnover, ESG)
 - Factor-based allocation (Fama-French, momentum)
+- **C++ portfolio engines** for low-latency rebalancing
 
 </td>
 <td width="50%">
@@ -50,6 +52,7 @@ class QuantProfile:
 - Stress testing & scenario analysis
 - Credit risk assessment (PD, LGD, EAD)
 - Gaussian Mixture Models for risk segmentation
+- **C++ pricing libraries** (options, derivatives, yield curves)
 
 </td>
 </tr>
@@ -58,6 +61,7 @@ class QuantProfile:
 
 ### Backtesting Infrastructure
 - Event-driven & vectorized backtesting engines
+- **High-performance C++ backtester** (tick-level, multi-asset)
 - Transaction cost modeling & slippage
 - Walk-forward optimization & cross-validation
 - Performance attribution (Brinson, factor-based)
@@ -80,7 +84,8 @@ class QuantProfile:
 ## 🔧 Tech Stack
 
 ```
-LANGUAGES       Python · SQL · JavaScript · Solidity · Shell
+LANGUAGES       Python · C++ · SQL · JavaScript · Solidity · Shell
+C++ FINANCE     STL · Eigen · Boost · QuantLib · Monte Carlo engines · Option pricing · Yield curves
 QUANT / ML      scikit-learn · SciPy · NumPy · pandas · statsmodels · Transformers (FinBERT)
 NLP             Hugging Face · FinBERT · Sentiment Analysis · Text Classification
 BLOCKCHAIN      Solidity · Smart Contracts · Decentralized Finance (DeFi)
@@ -139,19 +144,22 @@ TOOLS           Jupyter · VS Code · LaTeX
 ## 📊 What I Bring to a Quant Team
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   RESEARCH          →    IMPLEMENTATION    →    PRODUCTION      │
-│                                                                 │
-│   Factor models          Python pipelines       Docker/CI-CD   │
-│   Risk analytics         REST APIs              Monitoring      │
-│   Optimization           Backtesting            Dashboards      │
-│   Statistical tests      Data engineering       Documentation   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   RESEARCH          →    IMPLEMENTATION    →    PRODUCTION               │
+│                                                                          │
+│   Factor models          Python pipelines       Docker/CI-CD            │
+│   Risk analytics         C++ pricing engines    Monitoring               │
+│   Optimization           REST APIs              Low-latency systems      │
+│   Statistical tests      Backtesting            Dashboards               │
+│   Derivatives pricing    Data engineering       Documentation            │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 I don't just build models — I build the **infrastructure** that makes them reliable, testable and deployable.
+
+> 💡 *Python for rapid prototyping & ML · C++ for performance-critical pricing & execution · together for production quant systems.*
 
 ---
 
