@@ -1,195 +1,113 @@
-<div align="center">
+# 📄 Marcellin Soukroumde – My Journey in Quantitative Finance
 
-
-**Quant IT · Portfolio Management · Algorithmic Asset Management**
-
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-Quantitative_Finance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Portfolio Optimization](https://img.shields.io/badge/Portfolio-Optimization-f59e0b?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Risk Models](https://img.shields.io/badge/Risk-Models-ef4444?style=for-the-badge&logo=scipy&logoColor=white)](#)
-[![Backtesting](https://img.shields.io/badge/Backtesting-Infrastructure-22c55e?style=for-the-badge&logo=apachespark&logoColor=white)](#)
-
-</div>
+Hi, I’m Marcellin. I’m a quant engineering student at **ENSIAS** (Digital Engineering for Finance), and I build systems that turn financial theory into robust, production‑ready code. My passion lies at the intersection of mathematics, software engineering, and financial markets – specifically in designing the infrastructure that powers systematic trading and risk management.
 
 ---
 
-## `$ whoami`
+## 🚀 How I Got Here
 
-**Marcellin Soukroumde** — Engineering student at **ENSIAS** (Digital Engineering for Finance), building quantitative infrastructure for systematic portfolio management.
+My journey began with a fascination for both finance and technology. During my engineering studies, I realised that the real value in quantitative finance isn’t just in developing models – it’s in engineering them so they can be deployed reliably at scale. That insight shaped my entire approach: I focus on creating **end‑to‑end pipelines** that take a quantitative idea from research notebook to live system, with all the robustness, performance, and monitoring that a hedge fund or proprietary trading desk expects.
 
-I design and implement **end-to-end quantitative pipelines**: from raw market data ingestion to portfolio construction, risk monitoring and automated backtesting — with a focus on **robust, production-grade code** that bridges the gap between research and deployment.
-
-```python
-class QuantProfile:
-    name        = "Marcellin Soukroumde"
-    focus       = ["Quant IT", "Portfolio Management", "Algorithmic Asset Management"]
-    education   = "ENSIAS — Digital Engineering for Finance"
-    stack       = ["Python", "C++", "SQL", "React", "Flask", "Django", "Solidity", "Docker", "Git"]
-    interests   = ["Factor Models", "Portfolio Optimization", "High-Perf Pricing Engines", "NLP in Finance", "Blockchain", "ML in Finance"]
-    status      = "Open to Quant IT / Portfolio Infrastructure roles"
-```
+I’ve built my expertise through hands‑on projects that mirror real‑world challenges – from credit risk engines to NLP‑driven sentiment analysis, and even blockchain‑based financial ledgers. Each project taught me how to bridge the gap between theory and practice, and how to write code that is both mathematically correct and operationally sound.
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 What I Bring to a Quant Team
 
-<table>
-<tr>
-<td width="50%">
+I specialise in three interconnected areas:
 
-### Portfolio Construction & Optimization
-- Mean-Variance (Markowitz), Black-Litterman
-- Risk Parity & Hierarchical Risk Parity (HRP)
-- Constrained optimization (sector, turnover, ESG)
-- Factor-based allocation (Fama-French, momentum)
-- **C++ portfolio engines** for low-latency rebalancing
+- **Systematic Portfolio Construction**  
+  I implement modern portfolio theories – from Markowitz optimisation to Black‑Litterman and risk parity – while accounting for real‑world constraints like turnover, transaction costs, and factor exposures. I care about **attribution**: understanding where performance comes from and how to separate skill from luck.
 
-</td>
-<td width="50%">
+- **Risk Modelling & Analytics**  
+  I build frameworks that quantify downside exposure: VaR, CVaR, stress testing, and regime detection using Gaussian Mixture Models. I’ve also worked on credit risk (PD/LGD/EAD) and yield curve modelling. For me, risk is not just a number – it’s a narrative that informs decision‑making.
 
-### Risk Modelling & Analytics
-- VaR / CVaR (parametric, historical, Monte Carlo)
-- Stress testing & scenario analysis
-- Credit risk assessment (PD, LGD, EAD)
-- Gaussian Mixture Models for risk segmentation
-- **C++ pricing libraries** (options, derivatives, yield curves)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Backtesting Infrastructure
-- Event-driven & vectorized backtesting engines
-- **High-performance C++ backtester** (tick-level, multi-asset)
-- Transaction cost modeling & slippage
-- Walk-forward optimization & cross-validation
-- Performance attribution (Brinson, factor-based)
-
-</td>
-<td width="50%">
-
-### Quant IT & Data Engineering
-- REST API design for model serving (Flask)
-- Interactive dashboards (React, Recharts)
-- Containerized deployments (Docker, CI/CD)
-- Data pipelines (pandas, NumPy, SQL)
-
-</td>
-</tr>
-</table>
+- **Quant Infrastructure & Engineering**  
+  I design and code the backbone that makes quant research operational: event‑driven backtesters, REST APIs for model serving, Docker‑ised deployments, and CI/CD pipelines. I use Python for rapid prototyping and C++ for performance‑critical components (Monte Carlo engines, pricing libraries). I believe that **reproducibility** and **scalability** are as important as the models themselves.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ My Technical Toolkit
 
-```
-LANGUAGES       Python · C++ · SQL · JavaScript · Solidity · Shell
-C++ FINANCE     STL · Eigen · Boost · QuantLib · Monte Carlo engines · Option pricing · Yield curves
-QUANT / ML      scikit-learn · SciPy · NumPy · pandas · statsmodels · Transformers (FinBERT)
-NLP             Hugging Face · FinBERT · Sentiment Analysis · Text Classification
-BLOCKCHAIN      Solidity · Smart Contracts · Decentralized Finance (DeFi)
-VISUALIZATION   Recharts · Matplotlib · Plotly
-WEB / API       Flask · Django · React · Axios · Tailwind CSS
-INFRA           Docker · Docker Compose · Nginx · Git · GitHub Actions
-DATABASES       PostgreSQL · SQLite
-TOOLS           Jupyter · VS Code · LaTeX
-```
+| Languages       | Python, C++ (STL, Eigen, Boost, QuantLib), SQL, JavaScript, Solidity, Shell |
+|-----------------|------------------------------------------------------------------------------|
+| Python Data Stack | NumPy, pandas, SciPy, scikit‑learn, statsmodels, Matplotlib, Plotly         |
+| ML & NLP        | Hugging Face Transformers, FinBERT, Gaussian Mixture Models                  |
+| Web & Ops       | Flask, Django, React, Docker, Nginx, GitHub Actions                         |
+| Databases       | PostgreSQL, SQLite                                                           |
+| Tools           | Git, Jupyter, VS Code, LaTeX                                                 |
 
 ---
 
-## 📌 Featured Projects
+## 📌 Milestone Projects
 
-### 🏦 [`Credit-Risk`](https://github.com/Soukroumde4623/Credit-Risk) — Credit Risk Assessment with GMM
-> Full-stack ML application for bank loan eligibility prediction using Gaussian Mixture Models
+Here are three projects that represent my journey and capabilities:
 
-| Component | Stack |
-|-----------|-------|
-| **ML Engine** | Per-class GMM, Logistic Regression, Random Forest, Gradient Boosting, SVM, Naive Bayes, Decision Tree |
-| **Backend** | Flask REST API, scikit-learn, custom SMOTE implementation |
-| **Frontend** | React 18, Tailwind CSS, Recharts — Bloomberg Terminal-inspired dark UI |
-| **DevOps** | Docker multi-stage build, Nginx reverse proxy, docker-compose orchestration |
+### 1. Credit Risk Engine – Production‑Ready ML Infrastructure  
+I built a full‑stack credit scoring system that simulates a bank‑grade decision pipeline. It includes:
+- Benchmarking seven classification models (logistic regression, random forests, XGBoost, etc.)
+- A custom SMOTE implementation to handle class imbalance
+- A REST API that serves predictions in real time
+- A React dashboard for visualising scores and model performance
+- Docker multi‑stage deployment with Nginx reverse proxy  
 
-**Key features:** Real-time credit scoring · 7-model benchmarking · ROC/AUC analysis · Component-level attribution · CSV export
+This project taught me how to take a machine learning model from a notebook to a live, containerised service that can handle production traffic.
 
----
+### 2. Financial NLP Engine – Transformer‑Based Market Sentiment  
+I developed a sentiment analysis system tailored to financial news using **FinBERT** (a BERT model fine‑tuned on financial texts). Key components:
+- Fine‑tuning the transformer on a curated financial corpus
+- A real‑time inference pipeline that processes news articles and outputs sentiment scores
+- A REST API backend for easy integration into trading signals
+- An interactive dashboard to visualise sentiment trends over time  
 
-### 📰 [`NLP-Finance`](https://github.com/Soukroumde4623/NLP-Finance) — Financial Sentiment Analysis with FinBERT
-> Full-stack NLP web application that analyzes financial news sentiment in real time using a fine-tuned FinBERT transformer model
+This project showed me how alternative data can be systematically ingested and turned into actionable signals.
 
-| Component | Stack |
-|-----------|-------|
-| **NLP Model** | FinBERT (Hugging Face Transformers), fine-tuned for financial text |
-| **Backend** | Django, REST API, real-time inference pipeline |
-| **Frontend** | Interactive dashboard for sentiment visualization |
-| **Data** | Financial news corpus, sentiment labeling (positive/negative/neutral) |
+### 3. Blockchain Financial Ledger – Secure Financial Infrastructure  
+I built a decentralised financial transaction system using smart contracts on Ethereum. Features:
+- Immutable transaction storage with automated contract logic
+- Secure deployment scripts with gas optimisation
+- A focus on resilience and auditability  
 
-**Key features:** Real-time sentiment scoring · FinBERT fine-tuning · Financial news classification · Interactive dashboard
-
----
-
-### ⛓️ [`blockchain-Finance`](https://github.com/Soukroumde4623/blockchain-Finance) — Blockchain-Based Financial Management ⭐
-> Secure financial management platform where every transaction is permanently recorded on a shared, tamper-proof ledger
-
-| Component | Stack |
-|-----------|-------|
-| **Blockchain** | Solidity smart contracts, decentralized ledger |
-| **Security** | Tamper-proof transaction records, cryptographic verification |
-| **Infrastructure** | Shell scripts, automated deployment |
-
-**Key features:** Immutable transaction history · Decentralized architecture · Smart contract automation · Audit trail
+This project deepened my understanding of distributed systems, cryptography, and how trust is engineered in financial networks.
 
 ---
 
-## 📊 What I Bring to a Quant Team
+## 🎓 Education & Continuous Learning
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   RESEARCH          →    IMPLEMENTATION    →    PRODUCTION               │
-│                                                                          │
-│   Factor models          Python pipelines       Docker/CI-CD            │
-│   Risk analytics         C++ pricing engines    Monitoring               │
-│   Optimization           REST APIs              Low-latency systems      │
-│   Statistical tests      Backtesting            Dashboards               │
-│   Derivatives pricing    Data engineering       Documentation            │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+**ENSIAS – National School of Computer Science**  
+Engineering Degree in Digital Engineering for Finance *(ongoing)*  
+Core coursework: Financial Mathematics, Optimisation, Probability & Statistics, Quantitative Finance, Software Engineering
 
-I don't just build models — I build the **infrastructure** that makes them reliable, testable and deployable.
-
-> 💡 *Python for rapid prototyping & ML · C++ for performance-critical pricing & execution · together for production quant systems.*
+I also believe in lifelong learning. My certifications include:
+- Corporate Finance Fundamentals (CFI)
+- Portfolio Diversification using Correlation Matrix (Coursera)
+- Calculate WACC: Capital Costs (Coursera)
+- Python for Finance (LinkedIn Learning)
+- Learning AI Through Visualization (Columbia University)
+- Blockchain & FinTech (LinkedIn Learning)
+- Natural Language Processing with Python (LinkedIn Learning)
 
 ---
 
-## 📈 GitHub Stats
+## 💡 What I’m Looking For
 
-<div align="center">
+I’m aiming for a role where I can contribute to a quant team as a **Quant Developer**, **Portfolio Infrastructure Engineer**, or **Risk Analytics Developer**. I thrive in environments where:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soukroumde4623&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e17&title_color=f59e0b&icon_color=22c55e&text_color=94a3b8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soukroumde4623&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e17&title_color=f59e0b&text_color=94a3b8" height="165" />
+- Research meets production – I love turning ideas into systems that actually trade or manage risk.
+- Code quality and performance matter – I write clean, maintainable code and care about latency and scalability.
+- Collaboration is key – I enjoy working alongside quants, traders, and technologists to solve complex problems.
 
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukroumde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Soukroumde4623-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soukroumde4623)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellin-soukroumde-889134238/)
-
-</div>
-
-<div align="center">
+I bring a blend of financial intuition, statistical rigour, and software engineering discipline. I’m ready to help build the next generation of quantitative investment platforms.
 
 ---
 
-*Currently seeking opportunities in **Quant IT**, **Portfolio Infrastructure** and **Algorithmic Asset Management**.*
+## 📬 Let’s Connect
 
-*Let's build something that compounds.* 📈
+If you’re working on interesting problems in quant finance, or if you think I could be a good fit for your team, I’d love to hear from you.
 
-</div>
+📧 [soukroumde@gmail.com](mailto:soukroumdem777@gmail.com)  
+🔗 [GitHub](https://github.com/Soukroumde4623) · [LinkedIn](https://linkedin.com/in/marcellin-soukroumde-889134238)
+
+---
+
+*This README is a living document – just like my learning journey.*
