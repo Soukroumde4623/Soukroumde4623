@@ -31,8 +31,8 @@ class QuantProfile:
     name        = "Marcellin Soukroumde"
     focus       = ["Quant IT", "Portfolio Management", "Algorithmic Asset Management"]
     education   = "ENSIAS — Digital Engineering for Finance"
-    stack       = ["Python", "SQL", "React", "Flask", "Docker", "Git"]
-    interests   = ["Factor Models", "Portfolio Optimization", "Risk Parity", "ML in Finance"]
+    stack       = ["Python", "SQL", "React", "Flask", "Django", "Solidity", "Docker", "Git"]
+    interests   = ["Factor Models", "Portfolio Optimization", "NLP in Finance", "Blockchain", "ML in Finance"]
     status      = "Open to Quant IT / Portfolio Infrastructure roles"
 ```
 
@@ -88,10 +88,12 @@ class QuantProfile:
 ## 🔧 Tech Stack
 
 ```
-LANGUAGES       Python · SQL · JavaScript
-QUANT LIBS      scikit-learn · SciPy · NumPy · pandas · statsmodels
+LANGUAGES       Python · SQL · JavaScript · Solidity · Shell
+QUANT / ML      scikit-learn · SciPy · NumPy · pandas · statsmodels · Transformers (FinBERT)
+NLP             Hugging Face · FinBERT · Sentiment Analysis · Text Classification
+BLOCKCHAIN      Solidity · Smart Contracts · Decentralized Finance (DeFi)
 VISUALIZATION   Recharts · Matplotlib · Plotly
-WEB / API       Flask · React · Axios · Tailwind CSS
+WEB / API       Flask · Django · React · Axios · Tailwind CSS
 INFRA           Docker · Docker Compose · Nginx · Git · GitHub Actions
 DATABASES       PostgreSQL · SQLite
 TOOLS           Jupyter · VS Code · LaTeX
@@ -101,7 +103,7 @@ TOOLS           Jupyter · VS Code · LaTeX
 
 ## 📌 Featured Projects
 
-### [`Credit-Risk`](https://github.com/Soukroumde4623/Credit-Risk) — Credit Risk Assessment with GMM
+### 🏦 [`Credit-Risk`](https://github.com/Soukroumde4623/Credit-Risk) — Credit Risk Assessment with GMM
 > Full-stack ML application for bank loan eligibility prediction using Gaussian Mixture Models
 
 | Component | Stack |
@@ -112,6 +114,33 @@ TOOLS           Jupyter · VS Code · LaTeX
 | **DevOps** | Docker multi-stage build, Nginx reverse proxy, docker-compose orchestration |
 
 **Key features:** Real-time credit scoring · 7-model benchmarking · ROC/AUC analysis · Component-level attribution · CSV export
+
+---
+
+### 📰 [`NLP-Finance`](https://github.com/Soukroumde4623/NLP-Finance) — Financial Sentiment Analysis with FinBERT
+> Full-stack NLP web application that analyzes financial news sentiment in real time using a fine-tuned FinBERT transformer model
+
+| Component | Stack |
+|-----------|-------|
+| **NLP Model** | FinBERT (Hugging Face Transformers), fine-tuned for financial text |
+| **Backend** | Django, REST API, real-time inference pipeline |
+| **Frontend** | Interactive dashboard for sentiment visualization |
+| **Data** | Financial news corpus, sentiment labeling (positive/negative/neutral) |
+
+**Key features:** Real-time sentiment scoring · FinBERT fine-tuning · Financial news classification · Interactive dashboard
+
+---
+
+### ⛓️ [`blockchain-Finance`](https://github.com/Soukroumde4623/blockchain-Finance) — Blockchain-Based Financial Management ⭐
+> Secure financial management platform where every transaction is permanently recorded on a shared, tamper-proof ledger
+
+| Component | Stack |
+|-----------|-------|
+| **Blockchain** | Solidity smart contracts, decentralized ledger |
+| **Security** | Tamper-proof transaction records, cryptographic verification |
+| **Infrastructure** | Shell scripts, automated deployment |
+
+**Key features:** Immutable transaction history · Decentralized architecture · Smart contract automation · Audit trail
 
 ---
 
@@ -151,7 +180,7 @@ I don't just build models — I build the **infrastructure** that makes them rel
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soukroumde@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Soukroumde4623-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soukroumde4623)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcellin-soukroumde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellin-soukroumde-889134238/)
 
 </div>
 
