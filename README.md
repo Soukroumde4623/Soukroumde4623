@@ -1,4 +1,4 @@
-# 📄 Marcellin Soukroumde – My Journey in Quantitative Finance
+# 📄 Marcellin Soukroumde  My Journey in Quantitative Finance
 
 Hi, I’m Marcellin. I’m a quant engineering student at **ENSIAS** (Digital Engineering for Finance), and I build systems that turn financial theory into robust, production‑ready code. My passion lies at the intersection of mathematics, software engineering, and financial markets – specifically in designing the infrastructure that powers systematic trading and risk management.
 
@@ -110,4 +110,4 @@ If you’re working on interesting problems in quant finance, or if you think I 
 
 ---
 
-*This README is a living document – just like my learning journey.*
+
