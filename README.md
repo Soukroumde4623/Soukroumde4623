@@ -1,23 +1,16 @@
 # Marcellin Soukroumde Quantitative Finance & Systems Engineering
 
-I am a quantitative finance engineering student currently pursuing a double degree in **Financial Engineering and Applied Mathematics at ENSIMAG** (Grenoble INP - UGA) in France, after graduating **first in my class** in Digital Engineering for Finance at **ENSIAS** in Morocco.
+I am a quantitative finance engineering student currently pursuing a double degree in **Financial Engineering and Applied Mathematics at ENSIMAG** (Grenoble INP - UGA) in France
 
 My work sits at the intersection of stochastic calculus, low-latency systems engineering, and market microstructure. I specialize in translating mathematical pricing and statistical models into resilient, production-grade infrastructure capable of operating under live market constraints.
 
 ---
 
-## Philosophy & Track Record
-
-A quantitative model only creates value when its execution is reliable, reproducible, and fast. Throughout my academic training and industry internships, I have focused on bridging the gap between theoretical modeling and live deployment—building end-to-end pipelines where numerical precision meets clean software architecture.
-
-Beyond academic research, I regularly test systematic strategies under competitive market conditions, recently placing **7th out of 1,500 teams** in the **2026 Global Trading Challenge** by managing a multi-asset portfolio across global equities and fixed income.
-
----
 
 ## Core Competencies
 
 - **Derivatives Pricing & Structuring**  
-  Implementation of option pricing frameworks and interest rate term-structure models—from Cox-Ross-Rubinstein (CRR) binomial trees and variance-reduced Monte Carlo engines to Vasicek and Cox-Ingersoll-Ross (CIR) short-rate models. Strong focus on calibration stability, numerical convergence, and Greeks sensitivity analysis.
+  Implementation of option pricing frameworks and interest rate term-structure models-from Cox-Ross-Rubinstein (CRR) binomial trees and variance-reduced Monte Carlo engines to Vasicek and Cox-Ingersoll-Ross (CIR) short-rate models. Strong focus on calibration stability, numerical convergence, and Greeks sensitivity analysis.
 
 - **Systematic Trading & Quantitative Risk**  
   Architecture of event-driven backtesting engines and portfolio optimization frameworks (Markowitz, Black-Litterman, Risk Parity) incorporating realistic market frictions such as bid-ask spreads, slippage, and turnover constraints. On the risk side, I model tail exposure using parametric/historical VaR, CVaR, stress testing, Gaussian Mixture Models (GMM) for regime detection, and credit risk metrics (PD/LGD/EAD).
@@ -74,8 +67,8 @@ Engineering Degree in Financial Engineering and Applied Mathematics *(Double Deg
 Relevant Coursework: Stochastic Calculus, Derivatives Pricing, Numerical Methods in Finance, Convex Optimization, Time Series Analysis.  
 *Active member of Finance ENSIMAG.*
 
-**ENSIAS — Mohammed V University (Morocco)** | *2024 - 2026*  
-Engineering Degree in Digital Engineering for Finance -**Graduated 1st in Class**  
+**ENSIAS - Mohammed V University (Morocco)** | *2024 - 2026*  
+Engineering Degree in Digital Engineering for Finance **Graduated 1st in Class**  
 *Head of Training, ENSIAS FinTech Club: Led quantitative workshops on financial modeling, algorithmic trading, and risk management.*
 
 **Industry Experience**
