@@ -1,4 +1,4 @@
-# Marcellin Soukroumde — Quantitative Finance & Systems Engineering
+# Marcellin Soukroumde Quantitative Finance & Systems Engineering
 
 I am a quantitative finance engineering student currently pursuing a double degree in **Financial Engineering and Applied Mathematics at ENSIMAG** (Grenoble INP - UGA) in France, after graduating **first in my class** in Digital Engineering for Finance at **ENSIAS** in Morocco.
 
@@ -57,7 +57,7 @@ Designed and deployed a full-stack credit risk decision pipeline simulating inst
 - Benchmarked seven classification architectures (Logistic Regression, Random Forests, XGBoost) using custom SMOTE resampling to address severe class imbalance.
 - Exposed real-time Probability of Default (PD) inference via a containerized REST API (Docker, Nginx) paired with an interactive monitoring interface.
 
-### 4. FinSent — Financial NLP & Sentiment Alpha Pipeline
+### 4. FinSent Financial NLP & Sentiment Alpha Pipeline
 Developed an alternative-data pipeline extracting directional market signals from financial news streams:
 - Fine-tuned **FinBERT** on domain-specific financial corpora to score institutional news flow in real time.
 - Deployed an API-driven inference service feeding time-series sentiment indicators for systematic strategy integration.
@@ -69,18 +69,18 @@ Co-authoring an empirical finance paper titled *"Do Traditional Asset Pricing Mo
 
 ## Education & Experience
 
-**ENSIMAG — Grenoble INP - UGA (France)** | *2026 – Present*  
+**ENSIMAG Grenoble INP - UGA (France)** | *2026 – Present*  
 Engineering Degree in Financial Engineering and Applied Mathematics *(Double Degree)*  
 Relevant Coursework: Stochastic Calculus, Derivatives Pricing, Numerical Methods in Finance, Convex Optimization, Time Series Analysis.  
 *Active member of Finance ENSIMAG.*
 
-**ENSIAS — Mohammed V University (Morocco)** | *2024 – 2026*  
-Engineering Degree in Digital Engineering for Finance — **Graduated 1st in Class**  
+**ENSIAS — Mohammed V University (Morocco)** | *2024 - 2026*  
+Engineering Degree in Digital Engineering for Finance -**Graduated 1st in Class**  
 *Head of Training, ENSIAS FinTech Club: Led quantitative workshops on financial modeling, algorithmic trading, and risk management.*
 
 **Industry Experience**
-- **Data Scientist Intern** — Smart Automation Technologies *(Jul 2025 – Sep 2025)*
-- **Data Science Intern** — 3D Smart Factory *(Jul 2024 – Sep 2024)*: Automated quantitative financial scoring pipelines in Python and evaluated 50+ early-stage ventures for an investment committee.
+- **Data Scientist Intern** Smart Automation Technologies *(Jul 2025 – Sep 2025)*
+- **Data Science Intern** 3D Smart Factory *(Jul 2024 – Sep 2024)*: Automated quantitative financial scoring pipelines in Python and evaluated 50+ early-stage ventures for an investment committee.
 
 ---
 
